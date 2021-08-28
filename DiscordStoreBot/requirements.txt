@@ -1,0 +1,10 @@
+# main.py
+discord.ext
+discord-py-slash-command
+random
+json
+keep_alive --> 自訂義套件
+
+## keep_alive.py
+flask
+threading
