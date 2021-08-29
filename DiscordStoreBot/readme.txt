@@ -1,6 +1,6 @@
 ==========================
 
-# 加在最開始模組導入
+# 模組引入
 from discord.ext import commands
 from discord_slash import SlashCommand
 import random
@@ -13,14 +13,5 @@ keep_alive.keep_alive()
 
 ==========================
 
-# Node.js 請看這篇教學
-https://reurl.cc/xDozj1
 
-# Python 原文教學
-https://reurl.cc/5gV0WV
-
-==========================
-
-# 監控 Bot 網站
-https://uptimerobot.com/
 
