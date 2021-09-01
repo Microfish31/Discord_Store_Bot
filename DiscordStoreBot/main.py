@@ -46,7 +46,7 @@ async def add_store(ctx,name):
           f.write(name+"\n")
       await ctx.send(f"已添加 {name}")
     else :
-      await ctx.send(f"加過了啦幹")
+      await ctx.send(f"加過了啦")
 
 @slash.slash(description="To choose a store randomly.")
 async def random_store(ctx):
